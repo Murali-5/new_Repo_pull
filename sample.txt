@@ -1,0 +1,2 @@
+This is a sample text file.
+This is for a demo for pulling the Repository in the remote to the local repository.
